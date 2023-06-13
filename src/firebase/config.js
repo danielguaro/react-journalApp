@@ -9,12 +9,12 @@ import { initializeApp } from 'firebase/app';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-	apiKey: 'AIzaSyBYPRRh-wN7bwXwM8ZkpvJ__sja4vN-bpA',
-	authDomain: 'reactjornalapp.firebaseapp.com',
-	projectId: 'reactjornalapp',
-	storageBucket: 'reactjornalapp.appspot.com',
-	messagingSenderId: '843806503756',
-	appId: '1:843806503756:web:457a2a753097a862e915e9',
+	apiKey: '',
+	authDomain: '',
+	projectId: '',
+	storageBucket: '',
+	messagingSenderId: '',
+	appId: '',
 };
 
 // Initialize Firebase
